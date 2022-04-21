@@ -18,7 +18,7 @@ and that they provide a detailed and clear insight into the purpose and
 design and development process of ROSE.
 
 ## Contained Documents
-1. **Plan**:
+1. **Planning**:
 [**`Pflichtenheft-ROSE.pdf`**](./Pflichtenheft-ROSE.pdf) describes the goals of
 this project through functional and non-functional requirements.
 It details the interactions with the system through scenarios, use case diagrams and user interface mockups.
@@ -32,20 +32,20 @@ The document specifies the object-oriented design of ROSE both through an object
 model (class and package diagrams) and through a dynamic model (activity,
 sequence and state UML diagrams). 
 
-3. **Implement**:
+3. **Implementation**:
 [**`Implementierungsbericht-ROSE.pdf`**](./Implementierungsbericht-ROSE.pdf)
-describes our approach to implementing the system that we specified in the Plan
-and Design phases.
-We depict our schedule through a gantt chart and describe our peer-review- and tool-assisted workflow.
+describes our approach to implementing the system that we specified in the planning
+and design phases.
+We depict our schedule through a Gantt chart and describe our workflow which was assisted by peer-reviews and automated testing tools.
 The document also states which requirements have been implemented and what
 changes we made to our design.
 
-4. **Test**:
+4. **Testing**:
 [**`Qualitaetssicherungsbericht-ROSE.pdf`**](./Qualitaetssicherungsbericht-ROSE.pdf)
 lays out our quality assurance process.
 In detail, we describe our automated unit tests, GUI tests and code quality test
 as well as our supervised user test and survey.
-Every bug that has been found in the process is described and analyzed and it is
+Every bug that has been found in the process is described and analyzed. We also
 documented whether and how this bug has been or could be fixed.
 
 5. **Final presentation**:
@@ -58,4 +58,4 @@ These documents licensed under the GNU General Public License v3.
 The license text can be found in [`./LICENSE`](./LICENSE).
 
 If you have used ROSE or its source code for something cool,
-[we would love to hear about it](mailto:hello@maxschweik.art)!
+[we would love to hear about it](mailto:hello@maxschweik.art,contact@philipp-seidel.de?subject=I%20used%20ROSE%20for%20something%20cool!)!
