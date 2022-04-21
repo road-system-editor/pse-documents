@@ -36,7 +36,7 @@ sequence and state UML diagrams).
 [**`Implementierungsbericht-ROSE.pdf`**](./Implementierungsbericht-ROSE.pdf)
 describes our approach to implementing the system that we specified in the planning
 and design phases.
-We depict our schedule through a Gantt chart and describe our peer-review-/ and tool-assisted workflow.
+We depict our schedule through a Gantt chart and describe our workflow which was assisted by peer-reviews and automated testing tools.
 The document also states which requirements have been implemented and what
 changes we made to our design.
 
@@ -58,4 +58,4 @@ These documents licensed under the GNU General Public License v3.
 The license text can be found in [`./LICENSE`](./LICENSE).
 
 If you have used ROSE or its source code for something cool,
-[we would love to hear about it](mailto:hello@maxschweik.art,contact@philipp-seidel.de?subject=[ROSE]%20I%20used%20ROSE%20for%20something%20cool!)!
+[we would love to hear about it](mailto:hello@maxschweik.art,contact@philipp-seidel.de?subject=I%20used%20ROSE%20for%20something%20cool!)!
